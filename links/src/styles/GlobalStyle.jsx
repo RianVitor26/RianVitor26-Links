@@ -12,6 +12,7 @@ export const GlobalStyle = createGlobalStyle`
     --link-bg: #001466;
     --link-hover: #0020a0;
     --link-color: #e7e7e7;
+    --text-color: #bdbdbd;
 }
 
 body{
