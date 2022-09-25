@@ -10,7 +10,7 @@ export const Avatar = styled.div`
 width: 200px;
 height: 200px;
 border-radius: 50%;
-background-image: url('avatar.svg');
+background-image: url('perfil.png');
 background-repeat: no-repeat;
 background-size: cover;
 background-position: center;
