@@ -9,13 +9,13 @@ export const GlobalStyle = createGlobalStyle`
 
 :root{
     --body-bg: #000414;
-    --link-bg: #001466;
-    --link-hover: #0020a0;
-    --link-color: #e7e7e7;
-    --text-color: #bdbdbd;
+    --link-bg: #001677;
+    --link-hover: #001ea1;
+    --link-color: white;
+    --text-color: #ffffff;
 }
 
 body{
-    background: var(--body-bg);
+    background-image: url("computer.png");
 }
 `

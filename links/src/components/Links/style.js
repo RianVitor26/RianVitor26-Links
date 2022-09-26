@@ -1,4 +1,14 @@
-import styled from 'styled-components'
+import styled, {keyframes} from 'styled-components'
+
+const slide = keyframes`
+from{
+    background-image: blue;
+}
+
+to{
+    background: red;
+}
+`
 
 export const Container = styled.div`
 width: 30%;
