@@ -26,5 +26,6 @@ border-radius: 50%;
 background-image: url('perfil.png');
 background-repeat: no-repeat;
 background-size: cover;
+border: 5px solid white;
 background-position: center;
 `
