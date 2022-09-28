@@ -9,7 +9,7 @@ justify-content: center;
 
 p{
     color: var(--text-color);
-    font-size: clamp(12px, 1.2vw, 40px);
+    font-size: clamp(10px, 1.2vw, 40px);
 }
 
 a{

@@ -16,8 +16,6 @@ h2{
     font-size: clamp(14px, 1.5vw, 100px);
 }
 
-
-
 `
 export const Avatar = styled.div`
 width: 200px;
