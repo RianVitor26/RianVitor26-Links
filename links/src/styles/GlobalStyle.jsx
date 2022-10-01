@@ -16,6 +16,6 @@ export const GlobalStyle = createGlobalStyle`
 }
 
 body{
-    background-image: url("computer.png");
+    background: #00071d;
 }
 `
