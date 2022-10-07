@@ -8,14 +8,14 @@ export const GlobalStyle = createGlobalStyle`
 }
 
 :root{
-    --body-bg: #000414;
-    --link-bg: #001677;
-    --link-hover: #001ea1;
+    --body-bg: #000000;
+    --link-bg: #ffffff1f;
+    --link-hover: #ffffff37;
     --link-color: white;
     --text-color: #ffffff;
 }
 
 body{
-    background: #00071d;
+    background: var(--body-bg);
 }
 `
